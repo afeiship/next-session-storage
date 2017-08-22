@@ -9,7 +9,7 @@
     methods:{
       init: function(inPrefix){
         this.base({
-          engine:'sessionStorage',
+          engine: global.sessionStorage,
           prefix: inPrefix || ''
         });
       }
