@@ -9,8 +9,3 @@ _session.set('myseesion1','svalue1');
 
 console.log(_session.gets());
 ```
-
-## resources:
-
-## todos:
-- [ ] todo list..
