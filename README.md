@@ -6,11 +6,6 @@
 npm install -S @feizheng/next-session-storage
 ```
 
-## apis
-| api | params | description   |
-|-----|--------|---------------|
-| get | -      | desc balabala |
-
 ## usage
 ```js
 import NxSessionStorage from '@feizheng/next-session-storage';

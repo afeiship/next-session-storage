@@ -2,8 +2,8 @@
  * name: @feizheng/next-session-storage
  * description: SessionStorage based on next.
  * url: https://github.com/afeiship/next-session-storage
- * version: 1.0.0
- * date: 2019-12-18 19:32:31
+ * version: 1.1.0
+ * date: 2020-03-20 13:20:42
  * license: MIT
  */
 
