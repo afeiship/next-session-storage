@@ -15,3 +15,6 @@ _session.set('myseesion1','svalue1');
 
 console.log(_session.gets());
 ```
+
+## resources
+- https://github.com/afeiship/next-abstract-storage
