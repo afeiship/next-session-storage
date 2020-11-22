@@ -3,7 +3,7 @@
  * description: SessionStorage based on next.
  * homepage: https://github.com/afeiship/next-session-storage
  * version: 1.0.0
- * date: 2020-11-22 14:08:56
+ * date: 2020-11-22 14:09:50
  * license: MIT
  */
 
